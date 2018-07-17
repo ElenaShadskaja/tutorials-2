@@ -1,8 +1,8 @@
 ---
-title: 10072018_new_tut_2
+title: 10072018_new_tut_2-1
 description: 2 new types of rules 
-tags: [tutorial:product/sapHana]
-primary_tag: tutorial:product/mobile
+primary_tag: tutorial>HANA
+tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
 
